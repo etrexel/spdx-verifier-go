@@ -1,0 +1,7 @@
+GPL-2.0-only
+MIT
+OpenSSL
+BSD-2-Clause AND BSD-3-Clause
+MPL-2.0 AND MIT
+ISC
+Zlib
